@@ -1,1 +1,1 @@
-v10a of Magari Italian App
+v12 of Magari Italian App
