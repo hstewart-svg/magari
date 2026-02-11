@@ -1,1 +1,1 @@
-v12 of Magari Italian App
+Magari Italian App developed by H Stewart
